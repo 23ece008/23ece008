@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antrusubil
+👋 Hi, I’m Antrusubil
 
 
 <!---
